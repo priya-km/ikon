@@ -69,7 +69,7 @@ form {
 /* Fixing the image sizing to a thumbnail size */
 .search-result img{
     width: 100%;
-    height: 100%;
+    height: 200px;
     object-fit: cover;
     transition: opacity 0.2s ease-in-out; /* Making the opacity hover transition smoother */
 }
