@@ -104,6 +104,16 @@ form {
     display: none; /* element will not be displayed.. if an image was not searched */
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
 /* Resizing images varying by user device screen size */
 
 /* Tablet responsiveness */
